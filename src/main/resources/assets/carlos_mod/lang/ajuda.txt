@@ -1,0 +1,11 @@
+{ //esse json só serve pra dar nome às coisas (nesse caso na linguagem EN-US)
+  "item.carlos_mod.sapphire": "Sapphire", //Primeira parte é o tipo de coisa, segunda coisa é o ID do mod, terceira é o nome do item
+  "item.carlos_mod.raw_sapphire": "Raw Sapphire",
+  "item.carlos_mod.amethyst_chisel": "Amethyst chisel",
+
+  "block.carlos_mod.sapphire_block": "Sapphire Block",
+
+  "creativetab.carlos_mod_tab": "NOME DO MOD"
+}
+
+JSON NÃO SUPORTA COMENTARIOS

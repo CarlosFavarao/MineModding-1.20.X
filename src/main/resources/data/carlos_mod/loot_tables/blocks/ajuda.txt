@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {                    //rolls determinam quanto e quando vai dropar.
+      "bonus_rolls": 0.0,//(pode ter chance maior ou menor de dropar, esse n tem pq vai sempre dropar 1)
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "carlos_mod:sapphire_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "carlos_mod:blocks/sapphire_block"
+}

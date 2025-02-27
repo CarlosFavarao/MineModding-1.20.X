@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc", //Categoria (obrigatório por algum motivo)
+  "pattern": [
+    "###",            //cada caracter pode corresponder a um item para o crafting
+    "###",
+    "###"
+  ],
+  "key": {            //isso é o que cada caracter significa
+    "#": {
+      "item": "carlos_mod.sapphire"
+    }
+  },
+  "result": {        //o que resultará do crafting
+    "item": "carlos_mod.sapphire_block"
+  }
+}
+
+//posso buscar ajuda ou inspirações na pasta External Libraries > Gradle: net.minecraft:client:extra:1.20.1 > data ...
+ //inclusive craftings que requerem outros blocos como fornalha ou o stone cutter podem ser vistos lá.
+
+ JSON NÃO SUPORTA COMENTÁRIOS!!!
